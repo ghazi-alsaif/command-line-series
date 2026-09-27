@@ -12,7 +12,7 @@
 > المهندس غازي السيف — أبو هيثم
 >
 > المصدر الرسمي:
-> https://github.com/Ghazi-Ai/command-line-series
+> https://github.com/ghazi-alsaif/command-line-series
 >
 > الرخصة:
 > CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/

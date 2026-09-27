@@ -23,7 +23,7 @@ examples/7-automation/guardian/
 القارئ الحصول على المصدر الرسمي من:
 
 ```text
-https://github.com/Ghazi-Ai/command-line-series
+https://github.com/ghazi-alsaif/command-line-series
 ```
 
 لا تقرأ الشيفرة بوصفها جوابًا تحفظه؛ اقرأ كل جزء وسل: أي خطر منعه؟ وأي

@@ -35,8 +35,8 @@
   linebreak()
   grid(columns: (auto, 1fr), row-gutter: 0.35em, column-gutter: 10pt,
     text(fill: COLOR.muted)[صاحب المشروع], [المهندس غازي السيف — أبو هيثم],
-    text(fill: COLOR.muted)[التواصل], text(font: FONT.mono, size: 8pt)[github.com/Ghazi-Ai/command-line-series/issues],
-    text(fill: COLOR.muted)[المستودع], text(font: FONT.mono, size: 8pt)[github.com/Ghazi-Ai/command-line-series],
+    text(fill: COLOR.muted)[التواصل], text(font: FONT.mono, size: 8pt)[github.com/ghazi-alsaif/command-line-series/issues],
+    text(fill: COLOR.muted)[المستودع], text(font: FONT.mono, size: 8pt)[github.com/ghazi-alsaif/command-line-series],
   )
 
   v(0.8fr)

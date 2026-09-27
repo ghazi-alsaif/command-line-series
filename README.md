@@ -7,10 +7,10 @@
 # سلسلة سطر الأوامر · The Command Line Series
 
 <a href="README.md">العربية</a> · <a href="README.en.md">English</a> ·
-<a href="https://ghazi-ai.github.io/command-line-series/">الموقع</a>
+<a href="https://ghazi-alsaif.github.io/command-line-series/">الموقع</a>
 
 <p>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest"><img alt="release" src="https://img.shields.io/github/v/release/Ghazi-Ai/command-line-series?display_name=tag&amp;style=flat-square&amp;label=release&amp;color=164A3E"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest"><img alt="release" src="https://img.shields.io/github/v/release/ghazi-alsaif/command-line-series?display_name=tag&amp;style=flat-square&amp;label=release&amp;color=164A3E"></a>
   <a href="LICENSES/README.md"><img alt="رخصة المحتوى: CC BY-SA 4.0" src="https://img.shields.io/badge/content-CC_BY--SA_4.0-C0592B?style=flat-square&amp;logo=creativecommons&amp;logoColor=white"></a>
   <a href="LICENSES/MIT.txt"><img alt="رخصة الشيفرة: MIT" src="https://img.shields.io/badge/code-MIT-164A3E?style=flat-square&amp;logo=opensourceinitiative&amp;logoColor=white"></a>
   <a href="#كتب-السلسلة"><img alt="عدد الكتب: 10" src="https://img.shields.io/badge/books-10-6B4E9C?style=flat-square"></a>
@@ -28,11 +28,11 @@
 
 <br>
 
-<a href="https://ghazi-ai.github.io/command-line-series/">
+<a href="https://ghazi-alsaif.github.io/command-line-series/">
   <img src="docs/site-preview.png" width="50%" alt="واجهة الموقع الرسمي لسلسلة سطر الأوامر">
 </a>
 
-**[ادخل إلى الموقع، واستعرض الكتب في القارئ الإلكتروني](https://ghazi-ai.github.io/command-line-series/)**
+**[ادخل إلى الموقع، واستعرض الكتب في القارئ الإلكتروني](https://ghazi-alsaif.github.io/command-line-series/)**
 
 </div>
 
@@ -55,21 +55,21 @@
 | 9 | 🌐 **الشبكةُ من الطرفية** | فهم الشبكات وتشخيصها من الطرفية | ✅ مكتمل — 25 فصلًا + 4 ملاحق · 129 ص |
 | 10 | 🧭 **10+ مشاريع كبرى من الطرفية** | 21 مشروعًا متدرجًا من الجهاز إلى الخادم والأمن | ✅ مكتمل — 23 فصلًا/مشروعًا + 5 ملاحق · 171 ص |
 
-> كلُّ كتابٍ يُبنى PDF كاملًا بغلافيه الأمامي والخلفي مدموجَين. المجموع 3,482 صفحة في الإصدار 2.0.0.
+> كلُّ كتابٍ يُبنى PDF كاملًا بغلافيه الأمامي والخلفي مدموجَين. المجموع 3,482 صفحة في الإصدار 2.0.1.
 
 ### أغلفة السلسلة
 
 <div align="center" dir="rtl">
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/1-linux-ar.pdf"><img src="docs/readme-covers/1-linux.png" width="188" alt="تحميل PDF كتاب لينكس"></a>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/2-macos-ar.pdf"><img src="docs/readme-covers/2-macos.png" width="188" alt="تحميل PDF كتاب ماك"></a>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/3-windows-ar.pdf"><img src="docs/readme-covers/3-windows.png" width="188" alt="تحميل PDF كتاب ويندوز"></a>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/4-bsd-ar.pdf"><img src="docs/readme-covers/4-bsd.png" width="188" alt="تحميل PDF كتاب BSD"></a>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/5-workbook-ar.pdf"><img src="docs/readme-covers/5-workbook.png" width="188" alt="تحميل PDF دفتر التمارين"></a>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/6-unix-story-ar.pdf"><img src="docs/readme-covers/6-unix-story.png" width="188" alt="تحميل PDF كتاب قصة يونكس"></a>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/7-automation-ar.pdf"><img src="docs/readme-covers/7-automation.png" width="188" alt="تحميل PDF كتاب من الأمر إلى الأتمتة"></a>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/8-server-ar.pdf"><img src="docs/readme-covers/8-server.png" width="188" alt="تحميل PDF كتاب الخادم الذي لا ينام"></a>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/9-network-ar.pdf"><img src="docs/readme-covers/9-network.png" width="188" alt="تحميل PDF كتاب الشبكة من الطرفية"></a>
-  <a href="https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/10-projects-ar.pdf"><img src="docs/readme-covers/10-projects.png" width="188" alt="تحميل PDF كتاب 10+ مشاريع كبرى من الطرفية"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/1-linux-ar.pdf"><img src="docs/readme-covers/1-linux.png" width="188" alt="تحميل PDF كتاب لينكس"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/2-macos-ar.pdf"><img src="docs/readme-covers/2-macos.png" width="188" alt="تحميل PDF كتاب ماك"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/3-windows-ar.pdf"><img src="docs/readme-covers/3-windows.png" width="188" alt="تحميل PDF كتاب ويندوز"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/4-bsd-ar.pdf"><img src="docs/readme-covers/4-bsd.png" width="188" alt="تحميل PDF كتاب BSD"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/5-workbook-ar.pdf"><img src="docs/readme-covers/5-workbook.png" width="188" alt="تحميل PDF دفتر التمارين"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/6-unix-story-ar.pdf"><img src="docs/readme-covers/6-unix-story.png" width="188" alt="تحميل PDF كتاب قصة يونكس"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/7-automation-ar.pdf"><img src="docs/readme-covers/7-automation.png" width="188" alt="تحميل PDF كتاب من الأمر إلى الأتمتة"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/8-server-ar.pdf"><img src="docs/readme-covers/8-server.png" width="188" alt="تحميل PDF كتاب الخادم الذي لا ينام"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/9-network-ar.pdf"><img src="docs/readme-covers/9-network.png" width="188" alt="تحميل PDF كتاب الشبكة من الطرفية"></a>
+  <a href="https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/10-projects-ar.pdf"><img src="docs/readme-covers/10-projects.png" width="188" alt="تحميل PDF كتاب 10+ مشاريع كبرى من الطرفية"></a>
 </div>
 
 ## ⬇️ التنزيلات · Downloads
@@ -79,31 +79,31 @@
 
 | # | الكتاب | PDF | EPUB |
 |---|--------|-----|-------|
-| 1 | 🟠 **مِن الصِّفر إلى الجَذر** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/1-linux-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/1-linux-ar.epub) |
-| 2 | 🔵 **ماك من الطرفية** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/2-macos-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/2-macos-ar.epub) |
-| 3 | 🟡 **مِن الصِّفر إلى المسؤول** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/3-windows-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/3-windows-ar.epub) |
-| 4 | 🔴 **مِن الصِّفر إلى العِفريت** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/4-bsd-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/4-bsd-ar.epub) |
-| 5 | 🟣 **الطرفيّةُ بالممارسة** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/5-workbook-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/5-workbook-ar.epub) |
-| 6 | 🔷 **رُوحٌ في الآلة** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/6-unix-story-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/6-unix-story-ar.epub) |
-| 7 | 🟢 **مِن الأمر إلى الأتمتة** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/7-automation-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/7-automation-ar.epub) |
-| 8 | ⚙️ **الخادمُ الذي لا ينام** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/8-server-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/8-server-ar.epub) |
-| 9 | 🌐 **الشبكةُ من الطرفية** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/9-network-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/9-network-ar.epub) |
-| 10 | 🧭 **10+ مشاريع كبرى من الطرفية** | [تحميل PDF](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/10-projects-ar.pdf) | [تحميل EPUB](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/10-projects-ar.epub) |
+| 1 | 🟠 **مِن الصِّفر إلى الجَذر** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/1-linux-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/1-linux-ar.epub) |
+| 2 | 🔵 **ماك من الطرفية** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/2-macos-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/2-macos-ar.epub) |
+| 3 | 🟡 **مِن الصِّفر إلى المسؤول** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/3-windows-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/3-windows-ar.epub) |
+| 4 | 🔴 **مِن الصِّفر إلى العِفريت** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/4-bsd-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/4-bsd-ar.epub) |
+| 5 | 🟣 **الطرفيّةُ بالممارسة** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/5-workbook-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/5-workbook-ar.epub) |
+| 6 | 🔷 **رُوحٌ في الآلة** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/6-unix-story-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/6-unix-story-ar.epub) |
+| 7 | 🟢 **مِن الأمر إلى الأتمتة** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/7-automation-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/7-automation-ar.epub) |
+| 8 | ⚙️ **الخادمُ الذي لا ينام** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/8-server-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/8-server-ar.epub) |
+| 9 | 🌐 **الشبكةُ من الطرفية** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/9-network-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/9-network-ar.epub) |
+| 10 | 🧭 **10+ مشاريع كبرى من الطرفية** | [تحميل PDF](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/10-projects-ar.pdf) | [تحميل EPUB](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/10-projects-ar.epub) |
 
 ملفات المتون للطباعة، بلا الغلافين:
-[1](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/1-linux-ar-interior.pdf) ·
-[2](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/2-macos-ar-interior.pdf) ·
-[3](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/3-windows-ar-interior.pdf) ·
-[4](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/4-bsd-ar-interior.pdf) ·
-[5](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/5-workbook-ar-interior.pdf) ·
-[6](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/6-unix-story-ar-interior.pdf) ·
-[7](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/7-automation-ar-interior.pdf) ·
-[8](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/8-server-ar-interior.pdf) ·
-[9](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/9-network-ar-interior.pdf) ·
-[10](https://github.com/Ghazi-Ai/command-line-series/releases/latest/download/10-projects-ar-interior.pdf).
+[1](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/1-linux-ar-interior.pdf) ·
+[2](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/2-macos-ar-interior.pdf) ·
+[3](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/3-windows-ar-interior.pdf) ·
+[4](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/4-bsd-ar-interior.pdf) ·
+[5](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/5-workbook-ar-interior.pdf) ·
+[6](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/6-unix-story-ar-interior.pdf) ·
+[7](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/7-automation-ar-interior.pdf) ·
+[8](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/8-server-ar-interior.pdf) ·
+[9](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/9-network-ar-interior.pdf) ·
+[10](https://github.com/ghazi-alsaif/command-line-series/releases/latest/download/10-projects-ar-interior.pdf).
 راجع [دليل الطباعة](docs/PRINTING.md) قبل إرسال أي ملف إلى المطبعة.
 
-> الإصدار المعتمد والمنشور: **2.0.0** — تتوفر الكتب العشرة بصيغتي
+> الإصدار المعتمد والمنشور: **2.0.1** — تتوفر الكتب العشرة بصيغتي
 > PDF وEPUB، وتتوفر ملفات المتون المنفصلة للطباعة ضمن مرفقات الإصدار.
 
 ## 🎯 الفكرة
@@ -205,7 +205,7 @@ make epub
 ## ✍️ الإعداد والإشراف والمراجعة
 
 **صاحب الفكرة والمشروع، والإعداد والإشراف والمراجعة: المهندس غازي
-السيف — أبو هيثم** · [Ghazi-Ai](https://github.com/Ghazi-Ai)
+السيف — أبو هيثم** · [ghazi-alsaif](https://github.com/ghazi-alsaif)
 
 ### الإفصاح عن استخدام الذكاء الاصطناعي
 

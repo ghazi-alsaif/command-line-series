@@ -23,7 +23,7 @@
 
 لذلك:
 
-- أرسل الأخطاء والاقتراحات عبر [Issues](https://github.com/Ghazi-Ai/command-line-series/issues).
+- أرسل الأخطاء والاقتراحات عبر [Issues](https://github.com/ghazi-alsaif/command-line-series/issues).
 - يمكن فتح Pull Request يصحح أو يترجم النصوص مع توضيح النطاق والمصادر.
 - يمكن اقتراح تحديثات مستقلة للوثائق الإدارية، والأدوات، وREADME، ما دامت لا
   تغيّر محتوى الكتب أو ملفات الإصدار دون تنسيق مسبق.
@@ -53,7 +53,7 @@
 ```
 
 ولا ترفع مخرجات `build/` إلى Git؛ فهي مخرجات محلية، أما نسخ التنزيل العامة
-فمرفوعة ضمن [إصدار GitHub](https://github.com/Ghazi-Ai/command-line-series/releases).
+فمرفوعة ضمن [إصدار GitHub](https://github.com/ghazi-alsaif/command-line-series/releases).
 
 للتواصل أو تنسيق مساهمة رسمية، افتح
-[Issue](https://github.com/Ghazi-Ai/command-line-series/issues).
+[Issue](https://github.com/ghazi-alsaif/command-line-series/issues).

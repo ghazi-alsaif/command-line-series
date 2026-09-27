@@ -23,7 +23,7 @@ files, excluded assets, and third-party material are outside that offer.
 
 Therefore:
 
-- Report errors and suggestions through [Issues](https://github.com/Ghazi-Ai/command-line-series/issues).
+- Report errors and suggestions through [Issues](https://github.com/ghazi-alsaif/command-line-series/issues).
 - Pull Requests may correct or translate book text when their scope and sources
   are clear.
 - Documentation, tooling, and README improvements are welcome when they do not
@@ -54,7 +54,7 @@ From the repository root, use `build.sh` for a local build:
 ```
 
 Do not commit local `build/` output. Public downloads are attached to the
-[GitHub release](https://github.com/Ghazi-Ai/command-line-series/releases).
+[GitHub release](https://github.com/ghazi-alsaif/command-line-series/releases).
 
 For project contact or contribution coordination, open an
-[Issue](https://github.com/Ghazi-Ai/command-line-series/issues).
+[Issue](https://github.com/ghazi-alsaif/command-line-series/issues).

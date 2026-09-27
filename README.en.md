@@ -12,7 +12,7 @@ The current edition of the Command Line Series is available in Arabic only.
 The ten books and their PDF and EPUB editions are not available in English
 yet.
 
-Version 2.0.0 is the current published release. The series now spans ten
+Version 2.0.1 is the current published release. The series now spans ten
 Arabic books: command-line foundations across four operating-system families,
 practice, the Unix story, automation, Ubuntu server administration,
 networking, and guided projects including authorized cybersecurity labs.
@@ -21,7 +21,7 @@ networking, and guided projects including authorized cybersecurity labs.
 
 English translation work is welcome. If you would like to help prepare an
 official English edition, please open an
-[Issue](https://github.com/Ghazi-Ai/command-line-series/issues) before
+[Issue](https://github.com/ghazi-alsaif/command-line-series/issues) before
 starting substantial work.
 
 Please read [`TRANSLATION-GUIDE.md`](TRANSLATION-GUIDE.md),
