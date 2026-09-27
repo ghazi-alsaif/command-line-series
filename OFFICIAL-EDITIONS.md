@@ -7,7 +7,7 @@
 
 الإصدار العربي الرسمي الحالي هو **v2.0.0**، وتُطابق ملفاته المنشورة
 مرفقات الإصدار في:
-https://github.com/Ghazi-Ai/command-line-series/releases/tag/v2.0.0
+https://github.com/ghazi-alsaif/command-line-series/releases/tag/v2.0.0
 
 يسمح `COVER-PERMISSION.md` بطباعة هذه النسخ الرسمية غير المعدلة
 وتوزيعها ككتب كاملة بأغلفتها، ولا يجعل نسخة مشتقة إصدارًا رسميًا.

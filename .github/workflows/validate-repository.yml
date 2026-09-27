@@ -155,7 +155,7 @@ jobs:
           readme = Path("README.md").read_text(encoding="utf-8")
           if f"**{version}**" not in readme:
               raise SystemExit("README does not show the project version")
-          if "https://ghazi-ai.github.io/command-line-series/" not in readme:
+          if "https://ghazi-alsaif.github.io/command-line-series/" not in readme:
               raise SystemExit("README does not link to the project website")
           required_phrases = {
               "README.md": ("CC BY-SA 4.0", "نصوصها الأساسية وُلّدت باستخدام أدوات الذكاء الاصطناعي"),

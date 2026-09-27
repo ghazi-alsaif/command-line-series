@@ -59,7 +59,7 @@
 نزّل أحدث مصادر المشروع، ثم ادخل إلى مجلده:
 
 ```sh
-git clone --depth 1 https://github.com/Ghazi-Ai/command-line-series.git
+git clone --depth 1 https://github.com/ghazi-alsaif/command-line-series.git
 cd command-line-series
 ```
 

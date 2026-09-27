@@ -28,7 +28,7 @@
   v(0.65em)
   text(weight: 700, fill: COLOR.primaryDeep)[المصدر والتواصل]
   linebreak()
-  text(font: FONT.mono, size: 7.7pt)[github.com/Ghazi-Ai/command-line-series]
+  text(font: FONT.mono, size: 7.7pt)[github.com/ghazi-alsaif/command-line-series]
 
   v(0.5fr)
 })

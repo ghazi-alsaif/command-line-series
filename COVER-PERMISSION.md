@@ -19,4 +19,4 @@
 الإذن رخصة محتوى الكتب، ولا يرخّص العلامات، ولا يضمن حصرية الصور.
 
 المصدر الرسمي للإصدارات:
-https://github.com/Ghazi-Ai/command-line-series/releases
+https://github.com/ghazi-alsaif/command-line-series/releases

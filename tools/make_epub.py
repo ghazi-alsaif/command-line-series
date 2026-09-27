@@ -638,7 +638,7 @@ def main():
              'الرخصة المواد غير المدرجة أو مواد الأطراف الثالثة أو الأصول '
              'المستثناة في LICENSES/README.md.\n\n'
              'الرخصة: https://creativecommons.org/licenses/by-sa/4.0/\n\n'
-             'المصدر الرسمي: https://github.com/Ghazi-Ai/command-line-series\n\n'
+             'المصدر الرسمي: https://github.com/ghazi-alsaif/command-line-series\n\n'
              '%s لا يعني النسب اعتماد أي نسخة معدلة أو مترجمة مستقلة.'
              % edition_note)
     add_page('#front-title("الإفصاح عن الذكاء الاصطناعي", outlined: true)\n\n'
@@ -654,7 +654,7 @@ def main():
              'العمل الأصلي: سلسلة سطر الأوامر\n\n'
              'صاحب الفكرة والمشروع، والإعداد والإشراف والمراجعة: '
              'المهندس غازي السيف — أبو هيثم\n\n'
-             'المصدر الرسمي: https://github.com/Ghazi-Ai/command-line-series\n\n'
+             'المصدر الرسمي: https://github.com/ghazi-alsaif/command-line-series\n\n'
              'الرخصة: CC BY-SA 4.0\n\n'
              'على النسخة المعدلة أو المترجمة أن تبيّن التعديل وألا توحي '
              'بأن غازي السيف راجعها أو اعتمدها.')
@@ -724,7 +724,7 @@ def main():
         '<dc:contributor>أدوات ذكاء اصطناعي: توليد جميع مسودات الكتب ونصوصها الأساسية؛ ليست مؤلفًا أو مؤلفًا مشاركًا</dc:contributor>\n'
         '<dc:language>ar</dc:language>\n<dc:date>%s</dc:date>\n'
         '<dc:description>%s</dc:description>\n'
-        '<dc:source>https://github.com/Ghazi-Ai/command-line-series</dc:source>\n'
+        '<dc:source>https://github.com/ghazi-alsaif/command-line-series</dc:source>\n'
         '<dc:rights>CC BY-SA 4.0 للمحتوى العام المحدد؛ راجع LICENSES/README.md للاستثناءات.</dc:rights>\n'
         '<meta property="schema:version">%s</meta>\n'
         '<meta property="dcterms:modified">%s</meta>\n%s\n</metadata>\n'

@@ -25,7 +25,7 @@
   v(0.3em)
   text(font: FONT.mono, size: 6.8pt)[https://creativecommons.org/licenses/by-sa/4.0/]
   linebreak()
-  text(font: FONT.mono, size: 6.8pt)[github.com/Ghazi-Ai/command-line-series/blob/main/LICENSES/README.md]
+  text(font: FONT.mono, size: 6.8pt)[github.com/ghazi-alsaif/command-line-series/blob/main/LICENSES/README.md]
 
   v(0.7em)
   text(weight: 700, fill: COLOR.primaryDeep)[الإعداد والإفصاح]

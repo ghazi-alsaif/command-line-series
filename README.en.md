@@ -21,7 +21,7 @@ networking, and guided projects including authorized cybersecurity labs.
 
 English translation work is welcome. If you would like to help prepare an
 official English edition, please open an
-[Issue](https://github.com/Ghazi-Ai/command-line-series/issues) before
+[Issue](https://github.com/ghazi-alsaif/command-line-series/issues) before
 starting substantial work.
 
 Please read [`TRANSLATION-GUIDE.md`](TRANSLATION-GUIDE.md),

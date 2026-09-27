@@ -21,8 +21,8 @@
 ## ملفات النشر
 
 - رقم الإصدار المنشور: `VERSION`.
-- المخرجات النهائية: [Release v2.0.0](https://github.com/Ghazi-Ai/command-line-series/releases/tag/v2.0.0).
-- المكتبة والقارئ: [الموقع الرسمي](https://ghazi-ai.github.io/command-line-series/).
+- المخرجات النهائية: [Release v2.0.0](https://github.com/ghazi-alsaif/command-line-series/releases/tag/v2.0.0).
+- المكتبة والقارئ: [الموقع الرسمي](https://ghazi-alsaif.github.io/command-line-series/).
 - مخرجات البناء المحلية: `build/`، وهي مستثناة من Git.
 - المتون المخصصة للطباعة: `build/print/*-interior.pdf`.
 - مولّد حزمة الطباعة التفاعلي: `make print`؛ ولا يخمّن عرض الكعب أو

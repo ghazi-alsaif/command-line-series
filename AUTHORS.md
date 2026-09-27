@@ -3,7 +3,7 @@
 **المهندس غازي السيف** (أبو هيثم)
 Eng. Ghazi Alsaif
 
-- المستودع · Repository: `github.com/Ghazi-Ai/command-line-series`
+- المستودع · Repository: `github.com/ghazi-alsaif/command-line-series`
 
 صاحب الفكرة والمشروع، والإعداد والإشراف والمراجعة لسلسلة سطر الأوامر
 العربية وكتبها العشرة.

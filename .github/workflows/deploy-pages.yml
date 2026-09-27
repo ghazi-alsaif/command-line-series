@@ -108,7 +108,7 @@ jobs:
             echo "::warning::Release v$requested_version does not exist or lacks all ten PDF assets; Pages will use the latest earlier complete published Release v$published_version."
           fi
           echo "version=$published_version" >> "$GITHUB_OUTPUT"
-          echo "base=https://github.com/Ghazi-Ai/command-line-series/releases/download/v$published_version" >> "$GITHUB_OUTPUT"
+          echo "base=https://github.com/ghazi-alsaif/command-line-series/releases/download/v$published_version" >> "$GITHUB_OUTPUT"
 
       - name: Restore rendered reader pages
         id: reader-cache

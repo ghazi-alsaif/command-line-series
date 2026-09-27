@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: دليل المساهمة · Contributing guide
-    url: https://github.com/Ghazi-Ai/command-line-series/blob/main/CONTRIBUTING.md
+    url: https://github.com/ghazi-alsaif/command-line-series/blob/main/CONTRIBUTING.md
     about: راجع طريقة المساهمة قبل فتح طلب جديد · Read the contributing guide first.
   - name: الإبلاغ الأمني · Security report
-    url: https://github.com/Ghazi-Ai/command-line-series/security/policy
+    url: https://github.com/ghazi-alsaif/command-line-series/security/policy
     about: لا تنشر المشاكل الأمنية في Issue عام · Do not disclose security issues publicly.
