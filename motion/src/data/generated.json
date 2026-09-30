@@ -1,0 +1,95 @@
+{
+  "source": "README.md",
+  "version": "2.0.1",
+  "tagline": "من الصفر إلى فهم الآلة",
+  "lede": "سلسلةٌ عربيّة تأخذك من الصِّفر المطلق إلى إتقان سطر الأوامر عبر الأنظمة كلّها.",
+  "craftEn": "One craft, every system — an Arabic-first series on the command line.",
+  "requirement": "المتطلّب الوحيد: أن تعرف القراءة والكتابة.",
+  "siteUrl": "https://ghazi-alsaif.github.io/command-line-series/",
+  "repoUrl": "github.com/ghazi-alsaif/command-line-series",
+  "author": "غازي السيف — أبو هيثم",
+  "bookCount": 10,
+  "totalPages": 3482,
+  "books": [
+    {
+      "n": 1,
+      "title": "مِن الصِّفر إلى الجَذر",
+      "topic": "لِينُكس وسطر الأوامر",
+      "pages": 628,
+      "id": "1-linux",
+      "cover": "covers/1-linux.jpg"
+    },
+    {
+      "n": 2,
+      "title": "ماك من الطرفية",
+      "topic": "macOS من الطرفية",
+      "pages": 682,
+      "id": "2-macos",
+      "cover": "covers/2-macos.jpg"
+    },
+    {
+      "n": 3,
+      "title": "مِن الصِّفر إلى المسؤول",
+      "topic": "ويندوز: CMD وPowerShell وWSL",
+      "pages": 671,
+      "id": "3-windows",
+      "cover": "covers/3-windows.jpg"
+    },
+    {
+      "n": 4,
+      "title": "مِن الصِّفر إلى العِفريت",
+      "topic": "FreeBSD وعالم BSD",
+      "pages": 692,
+      "id": "4-bsd",
+      "cover": "covers/4-bsd.jpg"
+    },
+    {
+      "n": 5,
+      "title": "الطرفيّةُ بالممارسة",
+      "topic": "تمارين على الأنظمة الأربعة جنبًا إلى جنب",
+      "pages": 140,
+      "id": "5-workbook",
+      "cover": "covers/5-workbook.jpg"
+    },
+    {
+      "n": 6,
+      "title": "رُوحٌ في الآلة",
+      "topic": "حكاية يونيكس — كتابٌ أدبيّ للعامّة",
+      "pages": 105,
+      "id": "6-unix-story",
+      "cover": "covers/6-unix-story.jpg"
+    },
+    {
+      "n": 7,
+      "title": "مِن الأمر إلى الأتمتة",
+      "topic": "تحويل الأوامر إلى أدوات موثوقة",
+      "pages": 132,
+      "id": "7-automation",
+      "cover": "covers/7-automation.jpg"
+    },
+    {
+      "n": 8,
+      "title": "الخادمُ الذي لا ينام",
+      "topic": "إدارة خادم أوبونتو وتشغيله بأمان",
+      "pages": 132,
+      "id": "8-server",
+      "cover": "covers/8-server.jpg"
+    },
+    {
+      "n": 9,
+      "title": "الشبكةُ من الطرفية",
+      "topic": "فهم الشبكات وتشخيصها من الطرفية",
+      "pages": 129,
+      "id": "9-network",
+      "cover": "covers/9-network.jpg"
+    },
+    {
+      "n": 10,
+      "title": "10+ مشاريع كبرى من الطرفية",
+      "topic": "21 مشروعًا متدرجًا من الجهاز إلى الخادم والأمن",
+      "pages": 171,
+      "id": "10-projects",
+      "cover": "covers/10-projects.jpg"
+    }
+  ]
+}

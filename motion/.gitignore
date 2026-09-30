@@ -1,0 +1,6 @@
+node_modules/
+out/
+public/fonts/
+public/brand/
+public/covers-readme/
+.covers-*/
