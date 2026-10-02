@@ -22,6 +22,6 @@ const list = frames.length
 
 for (const frame of list) {
   const output = path.join(outDir, `${process.env.COMP || "Promo"}-f${String(frame).padStart(4, "0")}.png`);
-  await renderStill({ serveUrl, composition, frame, output, browserExecutable, chromiumOptions: { gl: "angle" } });
+  await renderStill({ serveUrl, composition, frame, output, browserExecutable, chromiumOptions: { gl: process.env.GL || "angle" } });
   console.log(output);
 }
